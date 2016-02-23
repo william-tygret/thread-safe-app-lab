@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">MakeAppThreadSafe</string>
+  <string name="choose">Change picture</string>
+  <string name="profile_image">this is your profile image</string>
+</resources>
